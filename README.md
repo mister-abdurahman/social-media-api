@@ -1,5 +1,7 @@
 ## Social Media Api Documentation
 
+Postman API Documentation link:  https://www.postman.com/sanni-555102/workspace/public-space/collection/26605770-d66cbd79-0e6a-4b9c-8984-b2279a8b8a3c?action=share&creator=26605770
+
 This api is a robust api that functions as an api for a social application and handles the fundamentals of a regular social media api.
 
 # How to run this project:
